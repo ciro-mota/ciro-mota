@@ -2,7 +2,7 @@
 <div align="center">
 <h1><font color=#219668>#</font> whoami</h1>
 
-“Tecnólogo em Gestão de TI por formação. Blogueiro nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.”  
+Tecnólogo em Gestão de TI por formação. Blogueiro nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.
 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
