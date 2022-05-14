@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="text-align: center">👋 Olá galerinha! Eu sou Ciro Mota</h1>
+  <h1 style="text-align: center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></a>&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
 </div>
 
 <!--<div style="display: inline_block"><br>
@@ -35,7 +35,7 @@
 </div>  
 
 <div align="center">
-  <h2 style="text-align: center"> 📚 Posts mais recentes do blog:</h2>
+  <h2 style="text-align: center"> 📚 Posts mais recentes do blog</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
