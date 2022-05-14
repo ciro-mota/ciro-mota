@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://ciromota.tec.br/rss.xml"
-        max_post_count: 2  
+          max_post_count: 2
+          feed_list: "https://ciromota.tec.br/rss.xml"  
