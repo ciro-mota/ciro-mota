@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 1
-          template: "$emojiKey(✔️) [$title]($url)"
+          template: $emojiKey(✔️) [$title]($url)
           feed_list: "https://ciromota.tec.br/rss.xml"  
