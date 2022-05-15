@@ -35,9 +35,19 @@
 </div>  
 
 <div align="center">
-  <h2 style="text-align: center"> 📚 Posts mais recentes do blog</h2>
+  <h2 style="text-align: center"> 📚 Post mais recente do blog</h2>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<p style="text-align:center; 
+font-size:18px; 
+background: #2e3440;
+border: 1px solid white;
+color: white;
+border-radius: 5px;
+padding: 50px;
+margin: 20px;
+min-width:50px;
+display: inline-block;
+padding: 25px;
+box-sizing: content-box"><!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --></p>
 </div>
