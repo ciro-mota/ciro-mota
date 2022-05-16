@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 1
-          template: "<center>$emojiKey(✔️) <a href='$url'>$title</a></center>"
+          template: "$emojiKey(✔️) <a href='$url' style='color: #ffffff'><strong>$title</strong></a>"
           feed_list: "https://ciromota.tec.br/rss.xml"  
