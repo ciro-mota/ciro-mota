@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="text-align: center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></a>&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
+  <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
 </div>
 
 <!--<div style="display: inline_block"><br>
@@ -11,9 +11,13 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/ciromota"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/ciro-mota/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+    <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siga-me no LinkedIn!" height="40" width="50" /></a> 
+   <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="40" width="50" /></a> 
+</div>
+
+</br>
+
+<div align="center">
 <a href="https://github.com/ciro-mota#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
