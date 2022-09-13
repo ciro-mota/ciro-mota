@@ -27,6 +27,6 @@ jobs:
         with:
           token: ${{ secrets.GIT_TOKEN }}
           repository: ciro-mota/ciro-mota
-          retain_days: 15
+          retain_days: 10
           keep_minimum_runs: 3
           
