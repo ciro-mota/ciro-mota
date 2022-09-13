@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: '0 0 * * 1' # Runs At 00:00 on Monday
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -16,4 +16,16 @@ jobs:
         with:
           max_post_count: 1
           template: "$emojiKey(✔️) <a href='$url' style='color: #ffffff'><strong>$title</strong></a>"
-          feed_list: "https://ciromota.tec.br/rss.xml"  
+          feed_list: "https://ciromota.tec.br/rss.xml"
+
+  del_runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 30
+          keep_minimum_runs: 3
+          
