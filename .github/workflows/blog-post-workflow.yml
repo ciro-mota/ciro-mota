@@ -17,4 +17,15 @@ jobs:
           max_post_count: 1
           template: "$emojiKey(✔️) <a href='$url' style='color: #ffffff'><strong>$title</strong></a>"
           feed_list: "https://ciromota.tec.br/rss.xml"
-          
+
+  del_runs:
+    name: Delete old workflows
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 2
