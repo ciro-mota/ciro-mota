@@ -18,7 +18,8 @@ jobs:
           template: "$emojiKey(✔️) <a href='$url' style='color: #ffffff'><strong>$title</strong></a>"
           feed_list: "https://ciromota.tec.br/rss.xml"
 
-  del_runs:
+  del-old-runs:
+    needs: update-readme-with-blog
     name: Delete old workflows
     runs-on: ubuntu-latest
     steps:
@@ -28,4 +29,4 @@ jobs:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
           retain_days: 7
-          keep_minimum_runs: 2
+          keep_minimum_runs: 1
