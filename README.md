@@ -27,6 +27,12 @@
 </div>
 
 <div align="center">
+  <h2 style="text-align: center">🛠️ Outras contribuições</h2>
+</div>
+
+<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/GNOME/gimp?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
+
+<div align="center">
   <h2 style="text-align: center">💻 Tecnologias que eu uso no meu dia</h2>
 </div>
 
