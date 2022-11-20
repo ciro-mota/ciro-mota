@@ -7,7 +7,7 @@
 </div>-->
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Blogueiro nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Criador de conteúdo nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.</p>
 </div>
 
 <div align="center">
@@ -30,7 +30,9 @@
   <h2 style="text-align: center">🛠️ Outras contribuições</h2>
 </div>
 
-<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/GNOME/gimp?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
+<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
+
+<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
 
 <div align="center">
   <h2 style="text-align: center">💻 Tecnologias que eu uso no meu dia</h2>
