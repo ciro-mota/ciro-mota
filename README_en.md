@@ -1,9 +1,9 @@
 <table align="right">
- <tr><td><a href="https://github.com/ciro-mota/padavan-collection/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/ciro-mota/padavan-collection/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
 
 <div align="center">
-  <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
+  <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Hi people! I am Ciro Mota</h1>
 </div>
 
 <!--<div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
 </div>-->
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Criador de conteúdo nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px">Technologist by education. Content creator in spare time. Nerd by principle, Gamer by choice... But only when you feel like it! Eager for challenges and constant learning. I was close to Information Security, but stumbled upon the Open Source world and got carried away. Since then, I consider myself a DevOps aspirant.</p>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h2 style="text-align: center">🛠️ Outras contribuições</h2>
+  <h2 style="text-align: center">🛠️ Other contributions</h2>
 </div>
 
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
@@ -39,7 +39,7 @@
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
 
 <div align="center">
-  <h2 style="text-align: center">💻 Tecnologias que eu uso no meu dia</h2>
+  <h2 style="text-align: center">💻 Technologies I use in my day</h2>
 </div>
 
 <div style="display: inline_block" align="center">
@@ -56,7 +56,7 @@
 </div>  
 
 <div align="center">
-  <h2 style="text-align: center"> 📚 Post mais recente do blog</h2>
+  <h2 style="text-align: center"> 📚 Latest blog post (only Portuguese)</h2>
 </div>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
