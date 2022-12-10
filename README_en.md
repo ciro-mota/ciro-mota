@@ -1,5 +1,5 @@
 <table align="right">
- <tr><td><a href="https://github.com/ciro-mota/padavan-collection/blob/main/README.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/ciro-mota/ciro-mota/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
 
 <div align="center">
