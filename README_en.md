@@ -53,10 +53,4 @@
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>  
-
-<div align="center">
-  <h2 style="text-align: center"> 📚 Latest blog post (only Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
