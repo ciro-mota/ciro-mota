@@ -11,7 +11,7 @@
 </div>-->
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Criador de conteúdo nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Fui próximo da Segurança da informação, mas tropecei no mundo Open Source e me empolguei. Desde então, me considero um aspirante a DevOps.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Pequeno criador de conteúdo nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Tropecei no mundo FLOSS e me empolguei. Desde então, me considero um defensor desse mundo.</p>
 </div>
 
 <div align="center">

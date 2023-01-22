@@ -11,7 +11,7 @@
 </div>-->
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Technologist by education. Content creator in spare time. Nerd by principle, Gamer by choice... But only when you feel like it! Eager for challenges and constant learning. I was close to Information Security, but stumbled upon the Open Source world and got carried away. Since then, I consider myself a DevOps aspirant.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px">Technologist by training. Small content creator in his spare time. Nerd by principle, Gamer by choice... But only when you feel like it! Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</p>
 </div>
 
 <div align="center">
