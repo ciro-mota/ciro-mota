@@ -6,12 +6,22 @@
   <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Hi people! I am Ciro Mota</h1>
 </div>
 
+- 🏠 I'm based in Salvador, Bahia.
+- 💻 I’m currently learning Frontend Development.
+- 💖 I’m always looking for ways to envolve Open Source projects.
+
 <!--<div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>-->
 
+---
+
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Technologist by training. Small content creator in his spare time. Nerd by principle, Gamer by choice... But only when you feel like it! Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Technologist by training. Small content creator in his spare time. Nerd, a little gamer. Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</samp></p>
+</div>
+
+<div align="center">
+  <h2 style="text-align: center">📫 Contact-me</h2>
 </div>
 
 <div align="center">
@@ -19,7 +29,9 @@
    <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="40" width="50" /></a> 
 </div>
 
-</br>
+<div align="center">
+  <h2 style="text-align: center">🛠️ Contributions</h2>
+</div>
 
 <div align="center">
 <a href="https://github.com/ciro-mota#gh-light-mode-only">
@@ -28,15 +40,12 @@
 <a href="https://github.com/ciro-mota#gh-dark-mode-only">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-</div>
-
-<div align="center">
-  <h2 style="text-align: center">🛠️ Other contributions</h2>
-</div>
-
+</br>
+</br>
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
 
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
+</div>
 
 <div align="center">
   <h2 style="text-align: center">💻 Technologies I use in my day</h2>

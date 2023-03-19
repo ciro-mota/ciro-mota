@@ -6,12 +6,23 @@
   <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
 </div>
 
+
+- 🏠 Resido em Salvador, Bahia.
+- 💻 Atualmente estudando Desenvolvimento Frontend.
+- 💖 Procuro sempre formas de desenvolver e ajudar o Open Source.
+
 <!--<div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
 </div>-->
 
+---
+
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px">Tecnólogo por formação. Pequeno criador de conteúdo nas horas vagas. Nerd por princípio, Gamer por opção... Mas só quando dá na telha! Ávido por desafios e por um constante aprendizado. Tropecei no mundo FLOSS e me empolguei. Desde então, me considero um defensor desse mundo.</p>
+  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Tecnólogo por formação. Pequeno criador de conteúdo nas horas vagas. Nerd, um pouco gamer. Ávido por desafios e por um constante aprendizado. Tropecei no mundo FLOSS e fascinei. Desde então me considero um defensor desse mundo.</samp></p>
+</div>
+
+<div align="center">
+  <h2 style="text-align: center">📫 Me contate</h2>
 </div>
 
 <div align="center">
@@ -19,7 +30,9 @@
    <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="40" width="50" /></a> 
 </div>
 
-</br>
+<div align="center">
+  <h2 style="text-align: center">🛠️ Contribuições</h2>
+</div>
 
 <div align="center">
 <a href="https://github.com/ciro-mota#gh-light-mode-only">
@@ -28,15 +41,12 @@
 <a href="https://github.com/ciro-mota#gh-dark-mode-only">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
-</div>
-
-<div align="center">
-  <h2 style="text-align: center">🛠️ Outras contribuições</h2>
-</div>
-
+</br>
+</br>
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
 
 <p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
+</div>
 
 <div align="center">
   <h2 style="text-align: center">💻 Tecnologias que eu uso no meu dia</h2>
@@ -53,7 +63,7 @@
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>  
+</div>
 
 <div align="center">
   <h2 style="text-align: center"> 📚 Post mais recente do blog</h2>
