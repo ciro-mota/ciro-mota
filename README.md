@@ -26,8 +26,8 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siga-me no LinkedIn!" height="40" width="50" /></a> 
-   <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="40" width="50" /></a> 
+    <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siga-me no LinkedIn!" height="30" width="40" /></a> 
+   <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="30" width="40" /></a> 
 </div>
 
 <div align="center">
