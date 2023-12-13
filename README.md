@@ -1,28 +1,19 @@
-<table align="right">
- <tr><td><a href="https://github.com/ciro-mota/ciro-mota/blob/main/README_en.md">:us: English</a></td></tr>
-</table>
-
 <div align="center">
-  <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Olá galerinha! Eu sou Ciro Mota</h1>
+  <h1 style="text-align: center">🖖🏽&nbsp;&nbsp;Hi people! I am Ciro Mota</h1>
 </div>
 
-
-- 🏠 Resido em Salvador, Bahia.
-- 💻 Atualmente estudando Desenvolvimento Frontend.
-- 💖 Procuro sempre formas de desenvolver e ajudar o Open Source.
-
-<!--<div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-</div>-->
+- 🏠 I'm based in Salvador, Bahia, Brazil.
+- 💻 I’m currently learning DevOps skills.
+- 💖 I’m always looking for ways to envolve Open Source projects.
 
 ---
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Tecnólogo por formação. Pequeno criador de conteúdo nas horas vagas. Nerd, um pouco gamer. Ávido por desafios e por um constante aprendizado. Tropecei no mundo FLOSS e fascinei. Desde então me considero um defensor desse mundo.</samp></p>
+  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Technologist by training. Small content creator in his spare time. Nerd, a little gamer. Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</samp></p>
 </div>
 
 <div align="center">
-  <h2 style="text-align: center">📫 Me contate</h2>
+  <h2 style="text-align: center">📫 Contact-me</h2>
 </div>
 
 <div align="center">
@@ -31,7 +22,7 @@
 </div>
 
 <div align="center">
-  <h2 style="text-align: center">🛠️ Contribuições</h2>
+  <h2 style="text-align: center">🛠️ Contributions</h2>
 </div>
 
 <div align="center">
@@ -49,13 +40,13 @@
 </div>
 
 <div align="center">
-  <h2 style="text-align: center">💻 Tecnologias que eu uso no meu dia</h2>
+  <h2 style="text-align: center">💻 Technologies I use in my day</h2>
 </div>
 
 <div style="display: inline_block" align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> 
-  <img alt="OpenWrt" src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" /> 
+  <img alt="OpenWrt" src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" />
   <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
@@ -67,7 +58,7 @@
 </div>
 
 <div align="center">
-  <h2 style="text-align: center"> 📚 Post mais recente do blog</h2>
+  <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
