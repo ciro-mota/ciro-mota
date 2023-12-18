@@ -60,5 +60,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/como-criar-uma-imagem-personalizada-do-sistema-windows/' style='color: #ffffff'><strong>Como criar uma imagem personalizada do sistema Windows</strong></a><!-- BLOG-POST-LIST:END -->
