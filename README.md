@@ -31,11 +31,11 @@
 <picture>
   <source
     srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true" />
 </picture>
