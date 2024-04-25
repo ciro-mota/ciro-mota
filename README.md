@@ -17,8 +17,10 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siga-me no LinkedIn!" height="30" width="40" /></a> 
-   <a href="https://twitter.com/ciromota" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Siga-me no Twitter!" height="30" width="40" /></a> 
+  <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="Follow me on LinkedIn!" /></a>
+  <a href="https://twitter.com/ciromota" target="blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge" alt="Follow me on Twitter!" /></a>
+  <a href="https://bsky.app/profile/ciromota.bsky.social" target="blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Follow me on Bluesky"></a>
+  <a href="https://mastodon.social/@ciromota" target="blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" alt="Follow me on Mastodon"></a>
 </div>
 
 <div align="center">
@@ -26,17 +28,24 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/ciro-mota#gh-light-mode-only">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/ciro-mota#gh-dark-mode-only">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true" />
+</picture>
 </br>
 </br>
-<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
+<p>&#8226; <a href="https://github.com/FineFindus/eyedropper">eyedropper</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FineFindus/eyedropper"></p>
 
-<p style="font-size:16px;font-weight:bold;">&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
+<p>&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
+
+<p>&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
 </div>
 
 <div align="center">
@@ -45,16 +54,16 @@
 
 <div style="display: inline_block" align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> 
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" /> 
   <img alt="OpenWrt" src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" />
-  <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+  <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white"/> 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> 
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000&style=for-the-badge" >
 </div>
 
 <div align="center">
