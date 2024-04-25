@@ -28,17 +28,11 @@
 </div>
 
 <div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true" />
-</picture>
+<a href="https://github.com/ciro-mota#gh-light-mode-only">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/ciro-mota#gh-dark-mode-only">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
 </br>
 </br>
 <p>&#8226; <a href="https://github.com/FineFindus/eyedropper">eyedropper</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FineFindus/eyedropper"></p>
