@@ -63,5 +63,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/instale-seu-ubuntu-com-btrfs-e-systemd-boot/' style='color: #ffffff'><strong>Instale seu Ubuntu com BTRFS e systemd-boot</strong></a><!-- BLOG-POST-LIST:END -->
