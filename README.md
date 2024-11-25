@@ -63,4 +63,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/execute-o-dietpi-ou-armbian-com-o-virt-manager/qemu/' style='color: #ffffff'><strong>Execute o DietPi ou Armbian com o Virt-Manager/QEMU</strong></a><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/automatize-tarefas-do-seu-dietpi-com-ansible/' style='color: #ffffff'><strong>Automatize tarefas do seu DietPi com Ansible</strong></a><!-- BLOG-POST-LIST:END -->
