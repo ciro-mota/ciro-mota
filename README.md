@@ -18,7 +18,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="Follow me on LinkedIn!" /></a>
-  <a href="https://twitter.com/ciromota" target="blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge" alt="Follow me on Twitter!" /></a>
   <a href="https://bsky.app/profile/ciromota.bsky.social" target="blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Follow me on Bluesky"></a>
   <a href="https://mastodon.social/@ciromota" target="blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" alt="Follow me on Mastodon"></a>
 </div>
