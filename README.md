@@ -35,11 +35,16 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
 </br>
 </br>
+
+<p><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciro-mota?style=flat&logo=Weblate&label=Contributions&cacheSeconds=3600"></p>
+
 <p>&#8226; <a href="https://github.com/FineFindus/eyedropper">eyedropper</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FineFindus/eyedropper"></p>
 
 <p>&#8226; <a href="https://gitlab.com/volian/nala">Nala</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/volian/nala?gitlab_url=https%3A%2F%2Fgitlab.com&style=social"></p>
 
 <p>&#8226; <a href="https://gitlab.gnome.org/raggesilver/blackbox">Black Box</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/raggesilver/blackbox?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
+
+<p>&#8226; <a href="https://gitlab.gnome.org/TheEvilSkeleton/Refine">Refine</a> &nbsp;&nbsp; <img src="https://img.shields.io/gitlab/stars/TheEvilSkeleton/Refine?gitlab_url=https%3A%2F%2Fgitlab.gnome.org&style=social"></p>
 </div>
 
 <div align="center">
