@@ -3,7 +3,7 @@
 </div>
 
 - 🏠 I'm based in Salvador, Bahia, Brazil.
-- 💻 I’m currently learning DevOps skills.
+- 💻 I’m currently learning DevOps skills and QA Tests.
 - 💖 I’m always looking for ways to envolve Open Source projects.
 
 ---
@@ -17,9 +17,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="Follow me on LinkedIn!" /></a>
-  <a href="https://bsky.app/profile/ciromota.bsky.social" target="blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Follow me on Bluesky"></a>
-  <a href="https://mastodon.social/@ciromota" target="blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" alt="Follow me on Mastodon"></a>
+
+  <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img width="32px" src="https://cdn.simpleicons.org/linkedin" alt="Follow me on LinkedIn!" /></a>
+    &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/ciromota.bsky.social" target="blank"><img width="32px" src="https://cdn.simpleicons.org/bluesky" alt="Follow me on Bluesky"></a>
+
+  
+
 </div>
 
 <div align="center">
