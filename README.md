@@ -16,15 +16,10 @@
   <h2 style="text-align: center">📫 Contact-me</h2>
 </div>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/ciro-mota/" target="blank"><img width="32px" src="https://cdn.simpleicons.org/linkedin" alt="Follow me on LinkedIn!" /></a>
-    &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/ciromota.bsky.social" target="blank"><img width="32px" src="https://cdn.simpleicons.org/bluesky" alt="Follow me on Bluesky"></a>
-
-  
-
-</div>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ciro-mota/" title="Follow me on LinkedIn!"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://bsky.app/profile/ciromota.bsky.social" title="Follow me on Bluesky"><img width="22" src="images/Bluesky_Logo.png"> Bluesky</a></code>
+</h5>
 
 <div align="center">
   <h2 style="text-align: center">🛠️ Contributions</h2>
