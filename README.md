@@ -67,5 +67,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/home-assistant-em-provedor-de-nuvem/' style='color: #ffffff'><strong>Home Assistant em provedor de nuvem</strong></a><!-- BLOG-POST-LIST:END -->
