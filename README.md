@@ -35,7 +35,7 @@
 </br>
 </br>
 
-<p><a href="https://hosted.weblate.org/user/ciro-mota/"><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciro-mota?style=flat&logo=Weblate&label=Contributions&cacheSeconds=3600"></a></p>
+<p><a href="https://translate.fedoraproject.org/user/ciromota/"><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciromota?server=https%3A%2F%2Ftranslate.fedoraproject.org&style=flat&logo=Weblate&cacheSeconds=3600"></a></p>
 
 <p>&#8226; <a href="https://github.com/FineFindus/eyedropper">eyedropper</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FineFindus/eyedropper"></p>
 
