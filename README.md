@@ -27,15 +27,17 @@
 
 <div align="center">
 <a href="https://github.com/ciro-mota#gh-light-mode-only">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/ciro-mota#gh-dark-mode-only">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ciro-mota&hide=commits,prs,issues&show_icons=true&hide_rank=true&theme=nord#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 </br>
 </br>
 
 <p><a href="https://hosted.weblate.org/user/ciro-mota/"><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciro-mota?style=flat&logo=Weblate&label=Contributions&cacheSeconds=3600"></a></p>
+
+<p>&#8226; <a href="https://github.com/wg-easy/wg-easy">wg-easy</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/wg-easy/wg-easy"></p>
 
 <p>&#8226; <a href="https://github.com/FineFindus/eyedropper">eyedropper</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FineFindus/eyedropper"></p>
 
