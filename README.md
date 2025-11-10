@@ -70,4 +70,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/obsidian-com-sincronizacao-e-criptografia-android-e-pc/' style='color: #ffffff'><strong>Obsidian com sincronização e criptografia Android e PC</strong></a><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/testes-de-banda-via-terminal-ou-prompt-de-comando/' style='color: #ffffff'><strong>Testes de banda via Terminal ou Prompt de Comando</strong></a><!-- BLOG-POST-LIST:END -->
