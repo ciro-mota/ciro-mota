@@ -70,4 +70,4 @@
 <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
 </div>
-<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/testes-de-banda-via-terminal-ou-prompt-de-comando/' style='color: #ffffff'><strong>Testes de banda via Terminal ou Prompt de Comando</strong></a><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->✔️ <a href='https://ciromota.tec.br/crie-e-inicie-vms-rapidamente-como-na-nuvem/' style='color: #ffffff'><strong>Crie e inicie VMs rapidamente como na nuvem</strong></a><!-- BLOG-POST-LIST:END -->
