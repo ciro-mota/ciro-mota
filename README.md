@@ -18,7 +18,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ciro-mota/" title="Follow me on LinkedIn!"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://bsky.app/profile/ciromota.bsky.social" title="Follow me on Bluesky"><img width="22" src="images/Bluesky_Logo.png"> Bluesky</a></code>
 </h5>
 
 <div align="center">
@@ -34,6 +33,8 @@
 </br>
 
 <p><a href="https://hosted.weblate.org/user/ciro-mota/"><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciro-mota?style=flat&logo=Weblate&label=Contributions&cacheSeconds=3600"></a></p>
+
+<p>&#8226; <a href="https://github.com/FreshRSS/FreshRSS/">FreshRSS</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FreshRSS/FreshRSS"></p>
 
 <p>&#8226; <a href="https://github.com/wg-easy/wg-easy">wg-easy</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/wg-easy/wg-easy"></p>
 
@@ -65,8 +66,8 @@
   <img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000&style=for-the-badge" >
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="text-align: center"> 📚 Most recent blog post (in Portuguese)</h2>
-</div>
+</div> -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
