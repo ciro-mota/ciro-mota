@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Technologist by training. Small content creator in his spare time. Nerd, a little gamer. Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</samp></p>
+  <p style="text-align:left;text-indent:30px;font-size:16px"><samp>Small content creator in his spare time. Nerd, a little gamer. Eager for challenges and constant learning. I stumbled upon the FLOSS world and got carried away. Since then, I consider myself a defender of this world.</samp></p>
 </div>
 
 <div align="center">
@@ -33,6 +33,8 @@
 </br>
 
 <p><a href="https://hosted.weblate.org/user/ciro-mota/"><img alt="Weblate user statistic" src="https://img.shields.io/weblate/translations/ciro-mota?style=flat&logo=Weblate&label=Contributions&cacheSeconds=3600"></a></p>
+
+<p>&#8226; <a href="https://github.com/mudkipme/MoeMemosAndroid/">MoeMemosAndroid</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/mudkipme/MoeMemosAndroid"></p>
 
 <p>&#8226; <a href="https://github.com/FreshRSS/FreshRSS/">FreshRSS</a> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/FreshRSS/FreshRSS"></p>
 
